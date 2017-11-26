@@ -1,7 +1,29 @@
 <component name="ProjectDictionaryState">
   <dictionary name="dse">
     <words>
+      <w>aerror</w>
+      <w>aresult</w>
+      <w>bnot</w>
+      <w>bxor</w>
+      <w>gotoif</w>
+      <w>gotoiferr</w>
+      <w>gotoifnot</w>
+      <w>hashtable</w>
+      <w>iferr</w>
+      <w>iferroreval</w>
+      <w>ifeval</w>
+      <w>ifnot</w>
+      <w>ifnoteval</w>
+      <w>impleval</w>
+      <w>jumpif</w>
+      <w>jumpiferr</w>
+      <w>jumpifnot</w>
+      <w>lambdaeval</w>
+      <w>leaveif</w>
       <w>minvm</w>
+      <w>raiseif</w>
+      <w>returnif</w>
+      <w>voidif</w>
     </words>
   </dictionary>
 </component>
