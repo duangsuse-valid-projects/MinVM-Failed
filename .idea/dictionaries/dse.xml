@@ -21,6 +21,8 @@
       <w>lambdaeval</w>
       <w>leaveif</w>
       <w>minvm</w>
+      <w>parsenum</w>
+      <w>pcall</w>
       <w>raiseif</w>
       <w>returnif</w>
       <w>voidif</w>

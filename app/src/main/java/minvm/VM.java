@@ -1,5 +1,7 @@
 package minvm;
 
+import java.lang.reflect.Method;
+
 /**
  * Created by dse on 17-11-26.
  * MinVM Interpreter Implementation
@@ -27,6 +29,8 @@ public class VM {
     //Program counter
     //maybe a big number(if input program is very large), so it's a Long
     private long pc;
+    //Trace method that invoked before executing any instruction
+    private Method trace;
 
     VM() {
         lock = new Lock();
